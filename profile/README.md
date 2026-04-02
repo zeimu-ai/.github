@@ -10,8 +10,12 @@
 
 | リポジトリ | 内容 |
 |-----------|------|
-| [open-journal-rules](https://github.com/zeimu-ai/open-journal-rules) | 日本の税務仕訳ルール データセット（28パターン・国税庁根拠付き） |
+| [open-journal-rules](https://github.com/zeimu-ai/open-journal-rules) | 日本の税務仕訳ルール データセット（33パターン・国税庁根拠付き） |
 | [open-freee-demo-kit](https://github.com/zeimu-ai/open-freee-demo-kit) | freee API操作デモツール |
+
+## 開発ガイドライン
+
+- [バージョニングルール](https://github.com/zeimu-ai/.github/blob/main/VERSIONING.md) — Semantic Versioning 2.0.0 準拠
 
 ## リンク
 
