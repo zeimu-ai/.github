@@ -12,6 +12,7 @@
 |-----------|------|
 | [open-journal-rules](https://github.com/zeimu-ai/open-journal-rules) | 日本の税務仕訳ルール データセット（33パターン・国税庁根拠付き） |
 | [open-freee-demo-kit](https://github.com/zeimu-ai/open-freee-demo-kit) | freee API操作デモツール |
+| [open-industry-support-guide](https://github.com/zeimu-ai/open-industry-support-guide) | 金融庁『業種別支援の着眼点』全10業種のMarkdown + JSON化 — 税理士の月次面談・経営支援に |
 
 ## 開発ガイドライン
 
